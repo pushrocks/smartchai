@@ -1,0 +1,26 @@
+{
+  "name": "smartchai",
+  "version": "1.0.0",
+  "description": "chai + chai as promised with types in place for TypeScript",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "test": "(npmts)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/pushrocks/smartchai.git"
+  },
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/pushrocks/smartchai/issues"
+  },
+  "homepage": "https://gitlab.com/pushrocks/smartchai#README",
+  "dependencies": {
+    "@types/chai": "^3.4.34",
+    "@types/chai-as-promised": "0.0.29",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0"
+  }
+}

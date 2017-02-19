@@ -18,9 +18,14 @@
   },
   "homepage": "https://gitlab.com/pushrocks/smartchai#README",
   "dependencies": {
-    "@types/chai": "^3.4.34",
+    "@types/chai": "^3.4.35",
     "@types/chai-as-promised": "0.0.29",
+    "@types/chai-string": "^1.1.30",
     "chai": "^3.5.0",
-    "chai-as-promised": "^6.0.0"
+    "chai-as-promised": "^6.0.0",
+    "chai-string": "^1.3.0"
+  },
+  "devDependencies": {
+    "typings-test": "^1.0.3"
   }
 }

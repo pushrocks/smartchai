@@ -1,11 +1,11 @@
 # smartchai
-chai + chai as promised with types in place for TypeScript
+chai + chai-as-promised + chai-string for TypeScript
 
 ## Availabililty
-[![npm](https://push.rocks/assets/repo-button-npm.svg)](https://www.npmjs.com/package/smartchai)
-[![git](https://push.rocks/assets/repo-button-git.svg)](https://GitLab.com/pushrocks/smartchai)
-[![git](https://push.rocks/assets/repo-button-mirror.svg)](https://github.com/pushrocks/smartchai)
-[![docs](https://push.rocks/assets/repo-button-docs.svg)](https://pushrocks.gitlab.io/smartchai/)
+[![npm](https://pushrocks.gitlab.io/assets/repo-button-npm.svg)](https://www.npmjs.com/package/smartchai)
+[![git](https://pushrocks.gitlab.io/assets/repo-button-git.svg)](https://GitLab.com/pushrocks/smartchai)
+[![git](https://pushrocks.gitlab.io/assets/repo-button-mirror.svg)](https://github.com/pushrocks/smartchai)
+[![docs](https://pushrocks.gitlab.io/assets/repo-button-docs.svg)](https://pushrocks.gitlab.io/smartchai/)
 
 ## Status for master
 [![build status](https://GitLab.com/pushrocks/smartchai/badges/master/build.svg)](https://GitLab.com/pushrocks/smartchai/commits/master)
@@ -21,4 +21,8 @@ chai + chai as promised with types in place for TypeScript
 ## Usage
 Use TypeScript for best in class instellisense.
 
-[![npm](https://push.rocks/assets/repo-header.svg)](https://push.rocks)
+For further information read the linked docs at the top of this README.
+
+> MIT licensed | **&copy;** [Lossless GmbH](https://lossless.gmbh)
+
+[![repo-footer](https://pushrocks.gitlab.io/assets/repo-footer.svg)](https://push.rocks)

@@ -1,8 +1,8 @@
 import 'typings-test'
 import * as smartchai from '../dist/index'
+import * as smartq from 'smartq'
 
-describe('smartchai', function() {
-  it('should have typings in place', function(){
-    smartchai.expect('hi there').to.startsWith('hi')
-  })
-})
+smartchai.expect('hi there').to.startWith('hi')
+let deferred = smartq.defer()
+smartchai.expect(deferred.promise).to.eventually.be.null
+deferred.resolve(null)

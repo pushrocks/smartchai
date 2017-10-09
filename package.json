@@ -1,6 +1,6 @@
 {
   "name": "smartchai",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "chai + chai-as-promised + chai-string for TypeScript",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

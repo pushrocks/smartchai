@@ -21,6 +21,13 @@ chai + chai-as-promised + chai-string for TypeScript
 ## Usage
 Use TypeScript for best in class instellisense.
 
+```typescript
+import { expect } from 'smartchai';
+
+expect(new Error('hi')).to.be.instanceOf(Error);
+
+```
+
 For further information read the linked docs at the top of this README.
 
 > MIT licensed | **&copy;** [Lossless GmbH](https://lossless.gmbh)
